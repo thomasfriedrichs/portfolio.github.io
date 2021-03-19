@@ -1,34 +1,25 @@
-# _{Application Name}_
+# _{Portfolio}_
 
-#### _{Brief description of application}_
+#### _{My portfolio gives a small outline of who i am and why i got into coding}_
 
-#### By _**{List of contributors}**_
+#### By _**{Thomas Friedrichs}**_
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* html
+* css
+* markdown
 
 ## Description
-
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+_{This is my portfolio, this is what i will continue to edit and eventually use to persue a career in web/app development}_
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
+* _Installation is easy on this one. All you need it a web browser! just copy the project folder onto your computer and drag and drop the index.html into your web browser._ 
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* No known bugs 
 
 ## License
 
