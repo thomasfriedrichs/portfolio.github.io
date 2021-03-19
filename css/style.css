@@ -37,3 +37,12 @@ body {
     border-radius: 10px;
     width: 100%;
 }
+#name {
+    color: rgb(58, 57, 57)
+}
+.jobs {
+    color: crimson;
+}
+.interests {
+    color:crimson;
+}
