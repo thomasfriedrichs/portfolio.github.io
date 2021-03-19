@@ -6,3 +6,8 @@ img {
 a {
     color: rgb(174, 96, 248);
 }
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    letter-spacing: 0.5px;
+}
