@@ -16,6 +16,7 @@ _{This is my portfolio, this is what i will continue to edit and eventually use 
 ## Setup/Installation Requirements
 
 * _Installation is easy on this one. All you need it a web browser! just copy the project folder onto your computer and drag and drop the index.html into your web browser._ 
+* https://thomasfriedrichs.github.io/portfolio.github.io/
 
 ## Known Bugs
 
@@ -25,7 +26,7 @@ _{This is my portfolio, this is what i will continue to edit and eventually use 
 
 _{MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2021] [Thomas Friedrichs]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
